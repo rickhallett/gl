@@ -11,7 +11,7 @@ export function About() {
       </p>
       <p>
         The solution isn't perfect, and there are some known bugs, but I don't
-        want to dedicate too much time in case it isn't considered!
+        want to dedicate too much time in case it isn't considered!...
       </p>
     </div>
   );
