@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: monospace;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+hr {
+  margin-bottom: 2rem;
+}
+
+.array-title {
+  margin: 3rem;
+}
+
+.card {
+  padding: 2em;
+}
+
+thead {
+  color: green;
+}
+
+
+
+

@@ -1,0 +1,24 @@
+.array-container {
+  display: flex;
+  flex-direction: column;;
+}
+
+.array-container__data {
+  margin-bottom: 2.5rem;
+}
+
+.element-card {
+  display: inline;
+  border: 1px solid gray;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background-color: lightgrey;
+}
+
+.element-card__sign {
+  display: inline;
+  border: 1px solid gray;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background-color: lightgreen;
+}
